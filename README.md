@@ -1,4 +1,4 @@
-![localhost_PRACTICE_ (2)](https://github.com/user-attachments/assets/ea80fa76-1503-4ea4-9900-46da5bf74e00)# Blog Website
+# Blog Website
 
 This is a dynamic blog website built using **HTML**, **CSS**, **PHP**, **JavaScript**, and **MySQL**. The website includes the following pages:
 
