@@ -30,7 +30,7 @@ This is a dynamic blog website built using **HTML**, **CSS**, **PHP**, **JavaScr
 ## Installation guide
 
 - Create a PRACTICE folder inside the htdocs folder of xampp and clone this repository in that
-- Create Database 'demo' and then Import the demo.sql file in phpmyadmin
+- Create Database 'demo' and then import the demo.sql file in phpMyAdmin
 
 #### Edit the credentials according to your system in config.php file
 
